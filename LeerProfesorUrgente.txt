@@ -1,0 +1,13 @@
+Profesor: tuve problemas para subir la tarea 
+y al parecer no sabia como subir la tarea 2 
+y sin querer borre la tarea 1 del repositorio pero la
+volvi a subir pero ahora tiene una fecha diferente espero 
+no cause ningun problema este detalle, ahora se ve que
+la tarea 1 la subi despues de la tarea 2 por esta misma
+razon, pense que debia subir solo los archivos que
+queria subir y quite los archivos que se descargan al
+clonar el repositorio pensando que en el repositorio no se
+afectaria en nada, pero al parecer si se borro y tuve que
+subir nuevamente los archivos y ahora aparecen con nueva
+fecha. Disculpe las molestias y el tiempo de leer este
+mensaje.
